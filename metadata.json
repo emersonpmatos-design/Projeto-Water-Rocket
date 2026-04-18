@@ -1,0 +1,6 @@
+{
+  "name": "AeroPET Pro",
+  "description": "Simulador minimalista de alcance balístico para foguetes de garrafa PET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
